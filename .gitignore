@@ -1,0 +1,19 @@
+node_modules/
+dist/
+data/
+*.log
+.DS_Store
+.eslintcache
+coverage/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Secrets
+*.pem
+*.key
+id_ed25519*
+.env
+.env.*
